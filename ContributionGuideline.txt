@@ -1,4 +1,0 @@
-Contribution Guidelines 
-=======================
-Contribution Guidelines markdown that tells the community how to contribute.
-To contribute, add useful work to this project and follow the rule of engagment
